@@ -6,6 +6,7 @@
 .header {
   background-color: rgb(0, 158, 201);
   color: white;
+  
 
 }
 .header-content {
@@ -15,6 +16,7 @@
 
 .header-links {
   background-color: lightgrey;
+  height: 2rem;
 }
 
 .header-links a {
