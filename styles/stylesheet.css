@@ -7,12 +7,33 @@
   color: white;
 
 }
+.header h1, p {
+  position: relative;
+  left: 175px;
+}
 
 .header-links {
   background-color: lightgrey;
 }
 
+.header-links a {
+  color: black;
+  position: relative;
+  left: 175px;
+}
+
+
+
 .footer {
   background-color: rgb(44, 0, 0);
   color: white;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer img, p {
+  position: relative;
+  left: 175px;
 }
