@@ -6,7 +6,7 @@
 .header {
   background-color: rgb(0, 158, 201);
   color: white;
-  
+
 
 }
 .header-content {
@@ -30,6 +30,7 @@
 .footer {
   background-color: rgb(44, 0, 0);
   color: white;
+  clear: right;
 }
 
 .footer a {
@@ -71,6 +72,10 @@
 
 .main-section h2 {
   color: rgb(0, 158, 201);
+}
+
+.side-section {
+  float: right;
 }
 
 
