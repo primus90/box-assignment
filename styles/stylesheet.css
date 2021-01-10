@@ -7,3 +7,12 @@
   color: white;
 
 }
+
+.header-links {
+  background-color: lightgrey;
+}
+
+.footer {
+  background-color: rgb(44, 0, 0);
+  color: white;
+}
