@@ -78,6 +78,10 @@
   float: right;
 }
 
+.side-section p {
+  left: 0px;
+}
+
 
 
 .side-section a {
