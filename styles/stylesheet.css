@@ -8,7 +8,7 @@
   color: white;
 
 }
-.header h1, p {
+.header-content {
   position: relative;
   left: 175px;
 }
@@ -70,6 +70,8 @@
 .main-section h2 {
   color: rgb(0, 158, 201);
 }
+
+
 
 .side-section a {
   color: rgb(0, 158, 201);
