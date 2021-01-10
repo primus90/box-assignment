@@ -44,10 +44,27 @@
   left: 175px;
 }
 
+#kitty-article {
+  color: rgb(0, 158, 201);
+}
+
+.main-section {
+  margin-right: 60rem;
+
+}
+
 .main-section p {
   position: relative;
-  left: 0px;
+  left: 175px;
   color: black;
+
+}
+
+.main-section h2 {
+  position: relative;
+  left: 175px;
+
+
 }
 
 .main-section h2 {
