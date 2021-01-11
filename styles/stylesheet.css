@@ -52,7 +52,9 @@
 }
 
 .main-section {
-  margin-right: 60rem;
+
+  float: left;
+  margin-right: 50rem;
 
 }
 
