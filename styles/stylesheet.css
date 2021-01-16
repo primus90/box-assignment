@@ -4,8 +4,8 @@
 }
 
 .header {
-  background-color: rgb(0, 158, 201);
-  color: white;
+  background-color: #115E73;
+  color: #FAFAFF;
 
 
 }
@@ -23,6 +23,7 @@
   color: black;
   position: relative;
   left: 175px;
+  padding: 1rem;
 }
 
 
@@ -45,6 +46,7 @@
 .footer-links a {
   position: relative;
   left: 400px;
+  padding: 1rem;
 }
 
 #kitty-article {
