@@ -3,10 +3,19 @@
   box-sizing: border-box;
 }
 
+.out-of-sight {
+  position: relative;
+  left: -10000px;
+  top: auto;
+}
+
+.out-of-sight:focus {
+  left: 0;
+}
+
 .header {
   background-color: #115E73;
   color: #FAFAFF;
-
 
 }
 .header-content {
